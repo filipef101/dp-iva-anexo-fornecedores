@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dpiva xmlns="http://www.at.gov.pt/schemas/dpiva" version="06">
+	<rosto>
+		<apuramento>
+			<btBensUETotal>0</btBensUETotal>
+			<btTotal>0</btTotal>
+			<excessoAReportar>0</excessoAReportar>
+			<excessoAReportarPeriodoAnterior>0</excessoAReportarPeriodoAnterior>
+			<ivaAEntregar>0</ivaAEntregar>
+			<ivaARecuperar>0</ivaARecuperar>
+			<ivaBensUETotal>0</ivaBensUETotal>
+			<ivaDedutivelAnexosRTotal>0</ivaDedutivelAnexosRTotal>
+			<ivaDedutivelOutros>0</ivaDedutivelOutros>
+			<ivaDedutivelTotal>0</ivaDedutivelTotal>
+			<ivaFavorEstadoTotal>0</ivaFavorEstadoTotal>
+			<ivaFavorSujPassivoTotal>0</ivaFavorSujPassivoTotal>
+			<reembolso>0</reembolso>
+			<temOperacoesAdquirenteComLiqImposto>02</temOperacoesAdquirenteComLiqImposto>
+		</apuramento>
+		<desenvolvimento>
+			<totalQuadro06A>0</totalQuadro06A>
+		</desenvolvimento>
+		<inicio>
+			<anoDeclaracao>2024</anoDeclaracao>
+			<apresentouDeclRecapitulativa>false</apresentouDeclRecapitulativa>
+			<atividadesImobiliarias>false</atividadesImobiliarias>
+			<localizacaoSede>1</localizacaoSede>
+			<nif>000000000</nif>
+			<periodoDeclaracao>12T</periodoDeclaracao>
+			<prazo>1</prazo>
+			<temAnexoRAcores>false</temAnexoRAcores>
+			<temAnexoRContinente>false</temAnexoRContinente>
+			<temAnexoRMadeira>false</temAnexoRMadeira>
+		</inicio>
+	</rosto>
+</dpiva>
